@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "45549369682",
+    "project_id": "royalrose-7871d",
+    "storage_bucket": "royalrose-7871d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45549369682:android:a43d04bc5cdba668c1e28b",
+        "android_client_info": {
+          "package_name": "com.mcdonalds.ap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45549369682-vpmvn85ddourub1gh2l3reiamealvnr0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD489BCgG6JFpk9X-2E0pOzvwSCm492sgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45549369682-vpmvn85ddourub1gh2l3reiamealvnr0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
